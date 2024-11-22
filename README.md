@@ -12,4 +12,4 @@ If you are using a different motherboard (or a PC case without front IO), you wi
 
 ## Tested on
 - **macOS 14.4** - Fully working.
-- **macOS 15.1** - Wifi and Bluetooth broken; Some issues with sleep.
+- **macOS 15.1** - Wifi and Bluetooth broken.
